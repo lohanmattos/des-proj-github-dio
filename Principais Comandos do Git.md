@@ -1,6 +1,6 @@
 # Os 13 comandos GIT mais usados
 
-![](C:\Users\lohanamendola\Desktop\Estudos na Plataforma da DIO\Bootcamps\Impulso Javascript Evolution\Módulo I - Princípios de Desenvolvimento de Software\desafio-git\des-proj-github-dio\comandos-git.png.webp)
+![git](comandos-git.png.webp)
 
 ### Git init
 
