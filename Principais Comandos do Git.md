@@ -1,5 +1,7 @@
 # Os 13 comandos GIT mais usados
 
+![](C:\Users\lohanamendola\Desktop\Estudos na Plataforma da DIO\Bootcamps\Impulso Javascript Evolution\Módulo I - Princípios de Desenvolvimento de Software\desafio-git\des-proj-github-dio\comandos-git.png.webp)
+
 ### Git init
 
 Para começar um projeto que ainda não seja um repositório (ou repo), o Git Init costuma ser o comando mais indicado. 
@@ -42,7 +44,7 @@ git branch <nome-da-branch>
 Este comando criará uma branch local. Para upar a nova branch para o repositório remoto, você precisa usar o seguinte comando:
 ```
 git push -u <remote> <nome-da-branch>
-```  
+```
 Para ver as ramificações, por sua vez, use:
 ```
 git branch
